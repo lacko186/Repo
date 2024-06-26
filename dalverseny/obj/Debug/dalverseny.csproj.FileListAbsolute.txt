@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\dalverseny\dalverseny\bin\Debug\dalverseny.exe.config
+C:\Users\User\Desktop\dalverseny\dalverseny\bin\Debug\dalverseny.exe
+C:\Users\User\Desktop\dalverseny\dalverseny\bin\Debug\dalverseny.pdb
+C:\Users\User\Desktop\dalverseny\dalverseny\obj\Debug\dalverseny.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dalverseny\dalverseny\obj\Debug\dalverseny.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dalverseny\dalverseny\obj\Debug\dalverseny.exe
+C:\Users\User\Desktop\dalverseny\dalverseny\obj\Debug\dalverseny.pdb
