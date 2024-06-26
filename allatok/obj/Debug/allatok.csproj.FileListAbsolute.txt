@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\allatok\allatok\bin\Debug\allatok.exe.config
+C:\Users\User\Desktop\allatok\allatok\bin\Debug\allatok.exe
+C:\Users\User\Desktop\allatok\allatok\bin\Debug\allatok.pdb
+C:\Users\User\Desktop\allatok\allatok\obj\Debug\allatok.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\allatok\allatok\obj\Debug\allatok.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\allatok\allatok\obj\Debug\allatok.exe
+C:\Users\User\Desktop\allatok\allatok\obj\Debug\allatok.pdb
