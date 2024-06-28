@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\jarmupark\jarmupark\bin\Debug\jarmupark.exe.config
+C:\Users\User\Desktop\jarmupark\jarmupark\bin\Debug\jarmupark.exe
+C:\Users\User\Desktop\jarmupark\jarmupark\bin\Debug\jarmupark.pdb
+C:\Users\User\Desktop\jarmupark\jarmupark\obj\Debug\jarmupark.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\jarmupark\jarmupark\obj\Debug\jarmupark.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\jarmupark\jarmupark\obj\Debug\jarmupark.exe
+C:\Users\User\Desktop\jarmupark\jarmupark\obj\Debug\jarmupark.pdb
