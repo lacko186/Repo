@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\dATUM\dATUM\bin\Debug\dATUM.exe.config
+C:\Users\User\Desktop\dATUM\dATUM\bin\Debug\dATUM.exe
+C:\Users\User\Desktop\dATUM\dATUM\bin\Debug\dATUM.pdb
+C:\Users\User\Desktop\dATUM\dATUM\obj\Debug\dATUM.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dATUM\dATUM\obj\Debug\dATUM.Form1.resources
+C:\Users\User\Desktop\dATUM\dATUM\obj\Debug\dATUM.Properties.Resources.resources
+C:\Users\User\Desktop\dATUM\dATUM\obj\Debug\dATUM.csproj.GenerateResource.cache
+C:\Users\User\Desktop\dATUM\dATUM\obj\Debug\dATUM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dATUM\dATUM\obj\Debug\dATUM.exe
+C:\Users\User\Desktop\dATUM\dATUM\obj\Debug\dATUM.pdb
