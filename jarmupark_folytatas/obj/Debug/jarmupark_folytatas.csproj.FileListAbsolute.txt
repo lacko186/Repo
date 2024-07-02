@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\jarmupark_folytatas\jarmupark_folytatas\bin\Debug\jarmupark_folytatas.exe.config
+C:\Users\User\Desktop\jarmupark_folytatas\jarmupark_folytatas\bin\Debug\jarmupark_folytatas.exe
+C:\Users\User\Desktop\jarmupark_folytatas\jarmupark_folytatas\bin\Debug\jarmupark_folytatas.pdb
+C:\Users\User\Desktop\jarmupark_folytatas\jarmupark_folytatas\obj\Debug\jarmupark_folytatas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\jarmupark_folytatas\jarmupark_folytatas\obj\Debug\jarmupark_folytatas.Form1.resources
+C:\Users\User\Desktop\jarmupark_folytatas\jarmupark_folytatas\obj\Debug\jarmupark_folytatas.Form2.resources
+C:\Users\User\Desktop\jarmupark_folytatas\jarmupark_folytatas\obj\Debug\jarmupark_folytatas.Form3.resources
+C:\Users\User\Desktop\jarmupark_folytatas\jarmupark_folytatas\obj\Debug\jarmupark_folytatas.Form4.resources
+C:\Users\User\Desktop\jarmupark_folytatas\jarmupark_folytatas\obj\Debug\jarmupark_folytatas.Properties.Resources.resources
+C:\Users\User\Desktop\jarmupark_folytatas\jarmupark_folytatas\obj\Debug\jarmupark_folytatas.csproj.GenerateResource.cache
+C:\Users\User\Desktop\jarmupark_folytatas\jarmupark_folytatas\obj\Debug\jarmupark_folytatas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\jarmupark_folytatas\jarmupark_folytatas\obj\Debug\jarmupark_folytatas.exe
+C:\Users\User\Desktop\jarmupark_folytatas\jarmupark_folytatas\obj\Debug\jarmupark_folytatas.pdb
