@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Retoxikáló\Retoxikáló\bin\Debug\Retoxikáló.exe.config
+C:\Users\User\Desktop\Retoxikáló\Retoxikáló\bin\Debug\Retoxikáló.exe
+C:\Users\User\Desktop\Retoxikáló\Retoxikáló\bin\Debug\Retoxikáló.pdb
+C:\Users\User\Desktop\Retoxikáló\Retoxikáló\obj\Debug\Retoxikáló.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Retoxikáló\Retoxikáló\obj\Debug\Retoxikáló.Form1.resources
+C:\Users\User\Desktop\Retoxikáló\Retoxikáló\obj\Debug\Retoxikáló.Properties.Resources.resources
+C:\Users\User\Desktop\Retoxikáló\Retoxikáló\obj\Debug\Retoxikáló.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Retoxikáló\Retoxikáló\obj\Debug\Retoxikáló.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Retoxikáló\Retoxikáló\obj\Debug\Retoxikáló.exe
+C:\Users\User\Desktop\Retoxikáló\Retoxikáló\obj\Debug\Retoxikáló.pdb
+C:\Users\User\Desktop\Retoxikáló\Retoxikáló\obj\Debug\Retoxikáló.Itallap.resources
+C:\Users\User\Desktop\Retoxikáló\Retoxikáló\obj\Debug\Retoxikáló.Súgó.resources
+C:\Users\User\Desktop\Retoxikáló\Retoxikáló\obj\Debug\Retoxikáló.Galéria.resources
+C:\Users\User\Desktop\Retoxikáló\Retoxikáló\obj\Debug\Retoxikáló.Számla.resources
+C:\Users\User\Desktop\Retoxikáló\Retoxikáló\obj\Debug\Retoxikáló.Névjegy.resources
